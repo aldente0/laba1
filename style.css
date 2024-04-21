@@ -1,0 +1,56 @@
+.condition {
+    color: rgb(179, 156, 156);
+}
+
+.solution {
+    padding-left: 20px;
+    font-style: italic;
+    font-size: 18px;
+}
+
+table {
+    margin-top: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 7px 15px;
+    border: 1px solid black;
+    font-weight: 700;
+}
+
+td {
+    border: 1px solid black;
+    padding: 7px 0 7px 0;
+}
+
+td.answer {
+    font-family: sans-serif;
+    color: blue;
+}
+
+td.name {
+    padding: 7px 0 7px 8px;
+}
+
+td.answer {
+    text-align: center;
+}
+
+tr {
+    border: 1px solid black;
+}
+
+p.answer {
+    padding-left: 20px;
+    font-style: italic;
+    font-size: 18px;
+}
+
+p.answer span {
+    color: blue;
+    font-family: sans-serif;
+    font-style: normal;
+    text-decoration: underline solid black;
+}
